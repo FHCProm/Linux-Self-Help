@@ -1,4 +1,4 @@
-# Github-Self-Help
+# Linux-Self-Help
 
 This is a self-help guide for forgetful people. Here lies the commands that you searched to assist you in Linux.
 
