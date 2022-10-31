@@ -6,3 +6,4 @@ This is a self-help guide for forgetful people. Here lies the commands that you 
 2. echo $PATH
 3. which "program that has path added"
 4. export PATH=$PATH:"/home/program/special-program"
+5. export -p      --> shows a list of declared varible in your system
