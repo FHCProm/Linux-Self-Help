@@ -4,4 +4,5 @@ This is a self-help guide for forgetful people. Here lies the commands that you 
 
 1. ls -a
 2. echo $PATH
-3.
+3. which "program that has path added"
+4. export PATH=$PATH:"/home/program/special-program"
